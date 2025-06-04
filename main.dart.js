@@ -7794,7 +7794,7 @@ if(b!=null)n.m(0,"modifiedAfter",b)
 n.m(0,"pageSize",B.h.k(c))
 n.m(0,"refreshToken",e)
 s=3
-return A.H(A.ZX(A.cA("https://pathology-pose-til-manufacturing.trycloudflare.com/api/list-files",0,null).YO(n),null),$async$L_)
+return A.H(A.ZX(A.cA("https://determined-sr-option-displayed.trycloudflare.com/api/list-files",0,null).YO(n),null),$async$L_)
 case 3:p=g
 if(p.b===200){o=B.an.o1(A.ik(A.ii(p.e)).cS(p.w),null)
 n=J.rH(t.j.a(o.h(0,"files")),new A.a4H(),t.ez)
@@ -27547,7 +27547,7 @@ a8D(a,b){return A.aOO(a,b)},
 aOO(a,b){var s=0,r=A.E(t.S),q,p=2,o=[],n,m,l,k,j,i,h
 var $async$a8D=A.A(function(c,d){if(c===1){o.push(d)
 s=p}while(true)switch(s){case 0:p=4
-l=A.cA("https://pathology-pose-til-manufacturing.trycloudflare.com/api/auth/requestotp",0,null)
+l=A.cA("https://determined-sr-option-displayed.trycloudflare.com/api/auth/requestotp",0,null)
 k=t.N
 j=A.a1(["Content-Type","application/json","Accept","application/json"],k,k)
 s=7
@@ -27578,7 +27578,7 @@ a8C(a,b,c){return A.aON(a,b,c)},
 aON(a,b,c){var s=0,r=A.E(t.Hk),q,p=2,o=[],n,m,l,k,j,i
 var $async$a8C=A.A(function(d,e){if(d===1){o.push(e)
 s=p}while(true)switch(s){case 0:p=4
-m=A.cA("https://pathology-pose-til-manufacturing.trycloudflare.com/api/auth/login",0,null)
+m=A.cA("https://determined-sr-option-displayed.trycloudflare.com/api/auth/login",0,null)
 l=t.N
 k=A.a1(["Content-Type","application/json"],l,l)
 s=7
@@ -27609,7 +27609,7 @@ var $async$a8B=A.A(function(b,c){if(b===1){o.push(c)
 s=p}while(true)switch(s){case 0:p=4
 m=t.N
 s=7
-return A.H(A.ZX(A.cA("https://pathology-pose-til-manufacturing.trycloudflare.com/api/auth/user/"+a,0,null),A.a1(["Content-Type","application/json"],m,m)),$async$a8B)
+return A.H(A.ZX(A.cA("https://determined-sr-option-displayed.trycloudflare.com/api/auth/user/"+a,0,null),A.a1(["Content-Type","application/json"],m,m)),$async$a8B)
 case 7:n=c
 q=n
 s=1
@@ -27647,7 +27647,7 @@ break}case 1:return A.C(q,r)}})
 return A.D($async$Mc,r)},
 a8A(a){var s=0,r=A.E(t.N),q,p,o,n,m
 var $async$a8A=A.A(function(b,c){if(b===1)return A.B(c,r)
-while(true)switch(s){case 0:p=A.cA("https://pathology-pose-til-manufacturing.trycloudflare.com/api/get-access-token",0,null)
+while(true)switch(s){case 0:p=A.cA("https://determined-sr-option-displayed.trycloudflare.com/api/get-access-token",0,null)
 o=t.N
 n=A.a1(["Content-Type","application/json"],o,o)
 s=3
@@ -41721,7 +41721,7 @@ zH(a,b,c){return this.akp(a,b,c)},
 akp(a,b,c){var s=0,r=A.E(t.H),q=1,p=[],o=this,n,m,l,k,j,i,h,g,f,e
 var $async$zH=A.A(function(d,a0){if(d===1){p.push(a0)
 s=q}while(true)switch(s){case 0:q=3
-i=A.cA("https://pathology-pose-til-manufacturing.trycloudflare.com/api/addAccount",0,null)
+i=A.cA("https://determined-sr-option-displayed.trycloudflare.com/api/addAccount",0,null)
 h=t.N
 g=A.a1(["Content-Type","application/json"],h,h)
 n=A.v(h,t.X)
